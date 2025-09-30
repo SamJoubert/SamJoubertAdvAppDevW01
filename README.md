@@ -5,3 +5,6 @@ Space for code screenshots as instructed
 
 # Assignment 2
 <img width="801" height="773" alt="image" src="https://github.com/user-attachments/assets/b83fd636-116c-4e20-8a6b-1f5b84b05aa5" />
+
+# Assignment 3
+<img width="826" height="989" alt="image" src="https://github.com/user-attachments/assets/faa3dc8b-375b-43c0-9e9c-f2d1e80453ec" />
